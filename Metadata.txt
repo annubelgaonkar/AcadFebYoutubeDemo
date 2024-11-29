@@ -1,1 +1,3 @@
 buffering speed
+Channels
+

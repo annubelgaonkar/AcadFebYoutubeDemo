@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 English
 French
+=======
+english
+french
+german
+>>>>>>> feat1
